@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
         padding:10,
     },
     searchInput: {
-        backgroundColor: '#FFF', // Arama çubuğu beyaz renkte
+        backgroundColor: '#FFF',
         height: 40,
         borderRadius: 20,
         paddingHorizontal: 15,
