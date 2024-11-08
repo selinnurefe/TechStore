@@ -1,0 +1,85 @@
+[
+    {
+        "id": 0,
+        "title": "Xiaomi Mi True Wireless Earbuds",
+        "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
+        "price": "₺779,77",
+        "inStock": false
+    },
+    {
+        "id": 1,
+        "title": "ANKER Soundcore H30i Kulak Üstü",
+        "imgURL": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_138225946?x=1800&y=1800&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=1800&ey=1800&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=1800&cdy=1800",
+        "price": "₺1.299,99",
+        "inStock": true
+    },
+    {
+        "id": 2,
+        "title": "Philips 58PUS8505/62 The One",
+        "imgURL": "https://m.media-amazon.com/images/I/71zLCzJcXaL._AC._SR360,460.jpg",
+        "price": "₺6.992,25",
+        "inStock": false
+    },
+    {
+        "id": 3,
+        "title": "DELONGHI Magnifica Plus ECAM320.70.TB",
+        "imgURL": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_140957349?x=1800&y=1800&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=1800&ey=1800&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=1800&cdy=1800",
+        "price": "₺24.614,38",
+        "inStock": true
+    },
+    {
+        "id": 4,
+        "title": "TECNO Camon 30 8/256 GB",
+        "imgURL": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_141999680?x=1800&y=1800&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=1800&ey=1800&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=1800&cdy=1800",
+        "price": "₺12.599,00",
+        "inStock": true
+    },
+    {
+        "id": 5,
+        "title": "Apple AirPods Series 2",
+        "imgURL": "https://m.media-amazon.com/images/I/51XanmiXw0L._AC._SR360,460.jpg",
+        "price": "₺1.299,00",
+        "inStock": true
+    },
+    {
+        "id": 6,
+        "title": "Lenovo Tab M10 Plus",
+        "imgURL": "https://m.media-amazon.com/images/I/81JR-A35D0L._AC._SR360,460.jpg",
+        "price": "₺2.496,50",
+        "inStock": false
+    },
+    {
+        "id": 7,
+        "title": "Xiaomi Redmi 20000 Mah",
+        "imgURL": "https://productimages.hepsiburada.net/s/34/375-375/10447639412786.jpg",
+        "price": "₺999,90",
+        "inStock": false
+    },
+    {
+        "id": 8,
+        "title": "Xiaomi Mijia Smart Home 360",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31G-rIrW9zL._AC_UL320_SR226,320_.jpg",
+        "price": "₺999,73",
+        "inStock": true
+    },
+    {
+        "id": 9,
+        "title": "Xiaomi Mi Box S 4K Ultra HD",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31sNKUGwNUL._AC_.jpg",
+        "price": "₺2.899,5399",
+        "inStock": true
+    },
+    {
+        "id": 10,
+        "title": "Haylou Solar LS-5 Smartwatch",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51kfZ4W9YSL._AC_SX522_.jpg",
+        "price": "₺996,00",
+        "inStock": true
+    },{
+        "id": 11,
+        "title": "ASUS TUF Gaming F15 FX507VV",
+        "imgURL": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_146097523?x=1800&y=1800&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=1800&ey=1800&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=1800&cdy=1800",
+        "price": "₺54.699,99",
+        "inStock": true
+    }
+]

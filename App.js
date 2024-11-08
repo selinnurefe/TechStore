@@ -1,20 +1,19 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React from 'react';
+import Cards from './src/components/Cards';
+import { FlatList, Text, View} from 'react-native';
+import techData from './src/components/data.json'
+import Header from './src/components/Header/Header';
 
 export default function App() {
+const renderCard = ({item})=><Cards cardData={item}/>
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
+    <View style={{flex:1}}>
+      <Header/>
+      <FlatList keyExtractor={(item, index) => item.id.toString()} data={techData} renderItem={renderCard}  numColumns={2}/>
     </View>
+   
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+
